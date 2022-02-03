@@ -1,6 +1,5 @@
 <h1 align="center">
   <a href="https://github.com/xerohackcom/AfterKali"><img src="https://raw.githubusercontent.com/xerohackcom/AfterKali/main/images/banner.png" alt="AfterKali" border="0"></a>
-  <br>AfterKali - UNDER DEVELOPMENT<br>
 </h1>
 
 
@@ -10,7 +9,7 @@
   <img src="https://raw.githubusercontent.com/xerohackcom/AfterKali/main/images/status-under-development.svg" alt="Status">
 </p>
 
-<h3 align="center">Make Your Kali Linux Awesome!</h3>
+<h3 align="center">Make Your Kali Linux Awesome with AfterKali</h3>
 
 <b>AfterKali</b> is a <i>Post Installation Script</i> that improves the core performance and application of Kali Linux operating system. It adds many improvements on top of your OS and can be used on both bare metal and VM installs safely.
 
