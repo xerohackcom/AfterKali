@@ -11,7 +11,7 @@
 
 <h3 align="center">Make Your Kali Linux Awesome with AfterKali</h3>
 
-<b>AfterKali</b> is a <i>Post Installation Script</i> that improves the core performance and application of Kali Linux operating system. It adds many improvements on top of your OS and can be used on both bare metal and VM installs safely.
+<b>AfterKali</b> is a <i>Post Installation Script</i> that improves the Kali Linux operating system's core performance and applications. It brings numerous enhancements to your operating system and may be safely installed on both bare metal and virtual machines. 
 
 
 ## Features v1.0.0
