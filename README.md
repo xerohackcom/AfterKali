@@ -1,12 +1,13 @@
 <h1 align="center">
-  <a href="https://github.com/xerohackcom/AfterKali"><img src="https://raw.githubusercontent.com/xerohackcom/AfterKali/main/banner.png" alt="AfterKali" border="0"></a>
+  <a href="https://github.com/xerohackcom/AfterKali"><img src="https://raw.githubusercontent.com/xerohackcom/AfterKali/main/images/banner.png" alt="AfterKali" border="0"></a>
   <br>AfterKali - UNDER DEVELOPMENT<br>
 </h1>
 
+
 <p align="center">
-  <img src="https://forthebadge.com/generator/?plabel=version&slabel=v1.0.0" alt="Version">
-  <img src="https://forthebadge.com/generator/?plabel=python&slabel=3&pbg=%23EA4560&sbg=%23C13B3A" alt="Python">
-  <img src="https://forthebadge.com/generator/?plabel=OS&slabel=KALI+LINUX&pbg=%2388C7D4&sbg=%23005384&ptext=%23005384" alt="OperatingSystem">
+  <img src="https://raw.githubusercontent.com/xerohackcom/AfterKali/main/images/os-kali-linux.svg" alt="OS">
+  <img src="https://raw.githubusercontent.com/xerohackcom/AfterKali/main/images/python-3.svg" alt="Python">
+  <img src="https://raw.githubusercontent.com/xerohackcom/AfterKali/main/images/status-under-development.svg" alt="Status">
 </p>
 
 <h3 align="center">Make Your Kali Linux Awesome!</h3>
